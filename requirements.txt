@@ -10,7 +10,7 @@ git+https://github.com/veriyol/bitcoin-python.git@master#egg=bitcoin-python
 boto==2.48.0
 django-annoying==0.10.3
 django-appconf==1.0.2
-django-celery==3.0.23
+django-celery==3.2.2
 django-compressor==1.3
 django-countries==1.5
 django-extra-views==0.6.5
