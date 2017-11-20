@@ -36,7 +36,7 @@ kombu==4.1.0
 git+https://github.com/veriyol/litecoin-python.git@master#egg=litecoin-python
 mailchimp==2.0.9
 pusher==1.7.2
-python-bitcoin==0.0.3
+python-bitcoin==0.0.10
 python-dateutil==2.1
 pytz==2013d
 raven==3.4.1
