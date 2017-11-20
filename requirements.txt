@@ -44,6 +44,6 @@ redis==2.10.6
 requests==2.18.4
 see==1.4.1
 six==1.11.0
-unicode-tr==0.5
+unicode-tr==0.6.1
 wsgiref==0.1.2
 certifi==2015.11.20
