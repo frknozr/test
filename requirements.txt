@@ -24,7 +24,7 @@ django-passwords==0.3.12
 django-qrcode==0.3
 django-redis==4.8.0
 django-reversion==2.0.10
-django-ses==0.4.1
+django-ses==0.8.3.1
 django-storages==1.1.8
 django-uuidfield==0.4.0
 docopt==0.4.0
