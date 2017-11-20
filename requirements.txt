@@ -34,7 +34,7 @@ html5lib==1.0b10
 jsonrpc==1.2
 kombu==4.1.0
 git+https://github.com/veriyol/litecoin-python.git@master#egg=litecoin-python
-mailchimp==2.0.7
+mailchimp==2.0.9
 pusher==1.7.2
 python-bitcoin==0.0.3
 python-dateutil==2.1
