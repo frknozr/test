@@ -8,7 +8,7 @@ argparse==1.4.0
 beautifulsoup4==4.6.0
 git+https://github.com/veriyol/bitcoin-python.git@master#egg=bitcoin-python
 boto==2.48.0
-django-annoying==0.7.9
+django-annoying==0.10.3
 django-appconf==0.6
 django-celery==3.0.23
 django-compressor==1.3
