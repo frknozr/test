@@ -2,7 +2,7 @@ soaplib==2.0.0-beta2
 Flask==0.12.2
 Django==1.11.7
 South==1.0.2
-amqp==1.0.13
+amqp==2.2.2
 anyjson==0.3.3
 argparse==1.2.1
 beautifulsoup4==4.3.2
